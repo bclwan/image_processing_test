@@ -27,8 +27,10 @@ Samples:
 Settings:(dpmm=5, grating_col=100, grating_row=50)
 
 1D :
+![1D](../master/doc/images/1d-grating.jpg)
 
 2D:
+![2D](../master/doc/images/2d-grating.jpg)
 
 
 ## Test 2
@@ -41,12 +43,16 @@ This program implement 2 filters and compare their performance on noise filterin
 Comparison
 
 Original Image
+![sample](../master/doc/images/grayscale.jpg)
 
 Noise Image
+![noise](../master/doc/images/noise_img.jpg)
 
 Filter1
+![fil1](../master/doc/images/filtered_img1.jpg)
 
 Filter2
+![fil2](../master/doc/images/filtered_img2.jpg)
 
 
 ### Discussion
